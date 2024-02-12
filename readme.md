@@ -3,7 +3,8 @@
 It is a simple Javascript project which calculates our age in years.
 
 ## Default view
-## 💻Tech Stack
+![age-calculator jpeg](https://github.com/rushikeshbhand/Age-calculator/assets/112516622/ad17bd7c-f9ad-47f7-a7d3-4480a3f4df74)
+
 <br>
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -17,7 +18,7 @@ It is a simple Javascript project which calculates our age in years.
 ---
 
 - Download or clone the repository
-
+git clone https://github.com/rushikeshbhand/Age-calculator.git
 ```
 
 - Go to the directory
